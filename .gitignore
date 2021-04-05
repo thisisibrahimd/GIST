@@ -1,0 +1,7 @@
+.DS_store
+.vscode
+*.code-workspace
+venv
+gist.egg-info
+*/__pycache__
+.env
