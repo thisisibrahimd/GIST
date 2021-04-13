@@ -130,7 +130,8 @@ An [synpuf database](https://github.com/thisisibrahimd/synpuf) has been made ava
 
 ## Paper
 
-- [GIST 2.0: A scalable multi-trait metric for quantifying population representativeness of individual clinical studies](https://academic.oup.com/jamia/article/25/3/239/4157244)
+- [GIST 2.0: A scalable multi-trait metric for quantifying population representativeness of individual clinical studies](https://www.sciencedirect.com/science/article/pii/S1532046416301150)
+- [A knowledge base of clinical trial eligibility criteria](https://www.sciencedirect.com/science/article/abs/pii/S1532046421001003)
 
 ## Contributing
 
